@@ -1,1 +1,2 @@
 test Git repository.
+test git from diskspace.
